@@ -1,4 +1,4 @@
- 
+Recreate application.
 
 ## Cockroach 2.0
 
